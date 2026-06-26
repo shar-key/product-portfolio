@@ -51,4 +51,14 @@ does not exist, name it as a hypothesis and design a test.
 Constraints before solutions. Understanding what cannot change (compliance, 
 architecture, budget, timeline) before designing what can.
 
-Delta-only communication. Stakeholders get what
+Delta-only communication. Stakeholders get what changed and why, not a 
+re-explanation of what already exists.
+
+Gate before you build. No feature enters development without a verified problem 
+statement, a Linear issue ID, and a defined acceptance criteria set.
+
+## Tools I Use
+
+Linear for issue tracking and sprint governance. Notion for research synthesis 
+and documentation. Miro for user flows and collaborative workshops. Figma for 
+wireframes and design system management.
